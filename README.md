@@ -7,3 +7,5 @@ Docker.Hub: https://hub.docker.com/r/henriquesbezerra/desafio-go
 ```bash
 $ docker run --rm henriquesbezerra/desafio-go
 ```
+
+### Desafio 02 - Nginx, NodeJS & MySQL
